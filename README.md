@@ -62,6 +62,6 @@ I believe the best way to learn programming is by building real projects.
 📫 Connect With Me:
 
 * Portfolio: [See my Portfolio Here](https://shivannagorkal.github.io/Portfolio/)
-* LinkedIn: [My LinkedIn Profile Here](https://github.com/shivannagorkal)
+* LinkedIn: [My LinkedIn Profile Here](https://linkedin.com/in/shivanna-m-590981374)
 
 > "Dream Big. Build Bigger."
