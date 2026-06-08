@@ -1,5 +1,3 @@
-## Hi  👋
-### I am Here!
 <!--
 **shivannagorkal/shivannagorkal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,56 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi 👋, I'm Shivanna
+
+**🚀 BTech CSE (AI) Student | Full-Stack Developer | Future Founder**
+
+***I'm a passionate Computer Science student who loves building web applications, solving real-world problems, and exploring Artificial Intelligence.***
+
+My goal is to create impactful products that help people and eventually build a successful technology company futur.
+
+---
+
+🌱 Currently Learning:
+
+* Artificial Intelligence
+* Machine Learning
+* Data Science
+* Full-stack development 
+
+🔭 Currently Working On:
+
+* A Student Knowledge Sharing Platform
+* Modern Web Applications using React & Node.js
+* Personal Projects to improve problem-solving and development skills
+
+🎯 Future Goals:
+
+* Build a successful tech startup
+* Create products used by thousands of students
+* Master Software Engineering and AI
+
+🛠️ Tech Skills:
+
+* Frontend: React, JavaScript, HTML, CSS, Tailwind CSS, Bootstrap, Flask.
+* Backend: Node.js, Express.js, Python.
+* Programming Languages: Python, C++, JavaScript.
+* Database: MongoDB, MySQL, PostgreSQL.
+* Tools: Git, GitHub, VS Code, Figma, Canva, DevTools.
+* Automaton: N8n, Make, Zapier
+
+📈 GitHub Stats:
+
+* Consistently learning and building
+* Open-source enthusiast
+* Always exploring new technologies
+
+⚡ Fun Fact:
+I believe the best way to learn programming is by building real projects.
+
+📫 Connect With Me:
+
+* Portfolio: [See my Portfolio Here](https://shivannagorkal.github.io/Portfolio/)
+* LinkedIn: [My LinkedIn Profile Here](https://github.com/shivannagorkal)
+
+> "Dream Big. Build Bigger."
