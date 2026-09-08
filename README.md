@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi 👋, I'm Shivanna
+# Hi 👋, I'm Shivanna Gorkal
 
 **🚀 BTech CSE (AI) Student | Full-Stack Developer | Future Founder**
 
